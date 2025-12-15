@@ -1,0 +1,40 @@
+body {
+    background-color:rgb(246, 222, 226) ;
+}
+.titulo {
+    color: rgb(37, 40, 238);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 50px;
+}
+.subtitulo {
+    color: rgb(95, 174, 227);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: bold;
+    font-size: 30px;
+}
+.azul {
+    color: rgb(40, 13, 240);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+#azul {
+    color: rgb(13, 172, 240);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+}
+#fuente {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgba(23, 13, 227, 0.893);
+}
+
+.inline {
+    display: block;
+    color: blueviolet;
+}
